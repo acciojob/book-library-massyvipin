@@ -1,36 +1,27 @@
-body{
+*{
 	background-color:#f8f8f8;
-}
-h1{
-	text-align:center;
-	
 }
 .book-library{
 	background-color:#ffffff;
-	display:flex;
-	flex-flow:column;
 }
-img{
-	position:relative;
-	left:35vw;
-	margin:20px;
-}
-p{
-	padding:0px;
-	color:#777777;
-	margin-left:20px
-}
-h2{
-	padding:0px;
-	margin-left:20px;
+.book-section{
+	margin:30px 0px 30px 0px;
 }
 button{
 	width:90vw;
-	text-align:center;
 	height:40px;
-	background-color:lightgreen;
-	margin:10px;
+	background-color:#2ecc71;
 }
-.book{
-	margin-top:40px;
+img{
+	margin-left:35%;
+	margin-top:20px
+}
+.book-name{
+	margin-left:10px;
+	margin-bottom:0px
+}
+.author{
+	margin-left:10px;
+	margin-top:0px;
+	color:#777777;
 }
