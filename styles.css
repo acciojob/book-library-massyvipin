@@ -1,27 +1,2 @@
-*{
-	background-color:#f8f8f8;
-}
-.book-library{
-	background-color:#ffffff;
-}
-.book{
-	margin:30px 0px 30px 0px;
-}
-button{
-	width:90vw;
-	height:40px;
-	background-color:#2ecc71;
-}
-img{
-	margin-left:35%;
-	margin-top:20px
-}
-.book-name{
-	margin-left:10px;
-	margin-bottom:0px
-}
-.author{
-	margin-left:10px;
-	margin-top:0px;
-	color:#777777;
+
 }
